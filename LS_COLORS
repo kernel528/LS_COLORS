@@ -37,7 +37,7 @@
 BLK                   38;5;68             # core
 CAPABILITY            38;5;17             # core
 CHR                   38;5;113;1          # core
-DIR                   38;5;116            # core
+DIR                   38;5;30             # core
 DOOR                  38;5;127            # core
 EXEC                  38;5;208;1          # core
 FIFO                  38;5;126            # core
@@ -243,6 +243,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .dart                 38;5;51             # Dart
 .asm                  38;5;81             # ASM
 .cl                   38;5;81             # LISP
+.ml                   38;5;81             # LISP
 .lisp                 38;5;81             # LISP
 .rkt                  38;5;81             # LISP
 .el                   38;5;81             # LISP (Emacs)
