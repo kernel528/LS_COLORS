@@ -521,20 +521,20 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .dmg                  38;5;215            # Packaged apps
 .crx                  38;5;215            # Packaged apps # Google Chrome extension
 .xpi                  38;5;215            # Packaged apps # Mozilla Firefox extension
-.iso                  38;5;210            # Partition images
-.img                  38;5;210            # Partition images
-.bin                  38;5;210            # Partition images
-.nrg                  38;5;210            # Partition images
-.qcow                 38;5;210            # Partition images
-.fvd                  38;5;210            # Partition images
-.sparseimage          38;5;210            # Partition images
-.toast                38;5;210            # Partition images
-.vcd                  38;5;210            # Partition images
-.vdi                  38;5;210            # Partition images
-.vhd                  38;5;210            # Partition images
-.vhdx                 38;5;210            # Partition images
-.vfd                  38;5;210            # Partition images
-.vmdk                 38;5;210            # Partition images
+.iso                  38;5;124            # Partition images
+.img                  38;5;124            # Partition images
+.bin                  38;5;124            # Partition images
+.nrg                  38;5;124            # Partition images
+.qcow                 38;5;124            # Partition images
+.fvd                  38;5;124            # Partition images
+.sparseimage          38;5;124            # Partition images
+.toast                38;5;124            # Partition images
+.vcd                  38;5;124            # Partition images
+.vdi                  38;5;124            # Partition images
+.vhd                  38;5;124            # Partition images
+.vhdx                 38;5;124            # Partition images
+.vfd                  38;5;124            # Partition images
+.vmdk                 38;5;124            # Partition images
 .swp                  38;5;244            # Temporary files
 .swo                  38;5;244            # Temporary files
 .tmp                  38;5;244            # Temporary files
